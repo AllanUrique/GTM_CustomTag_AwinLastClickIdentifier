@@ -1,5 +1,9 @@
 homepage: "https://www.awin.com/br"
 documentation: "https://www.awin.com/br"
 versions:
+#Latest version
+  - sha: 3c20c192185c6bee2a479230b61195e87a668a4b
+    changeNotes: Removing License to make template depricated (duplicate).
+# Older versions
   - sha: d6bd477d4cd917788fa79722e2f875ead1fc6837
     changeNotes: Initial release.
